@@ -1,0 +1,6 @@
+[submodule "themes/pulp"]
+	path = themes/pulp
+	url = https://github.com/koirand/pulp
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anca Alexandra Rosu</title>
+    <link>https://ancarosu.me/</link>
+    <description>Recent content on Anca Alexandra Rosu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 14:45:20 +0300</lastBuildDate>
+    
+	<atom:link href="https://ancarosu.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://ancarosu.me/posts/my-first-post/</link>
+      <pubDate>Sun, 05 May 2019 14:45:20 +0300</pubDate>
+      
+      <guid>https://ancarosu.me/posts/my-first-post/</guid>
+      <description>Hello, this is a test post. Please disregard.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ancarosu.me/about/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ancarosu.me/about/</guid>
+      <description>What the hell is this? An experiment using Hugo and AWS. Something to quell my boredom for an afternoon. Maybe a place to dump things I learn, find interesting or have thoughts about.
+And who the hell are you? Anca, nice to meet you. I live in Timisoara, Romania and work as a software developer, mostly with Ruby and Ruby on Rails.
+I studied software engineering at Universitatea Politehnica Timisoara and graduated in 2018.</description>
+    </item>
+    
+  </channel>
+</rss>
